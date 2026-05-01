@@ -90,6 +90,9 @@ This app integrates with a **water quality monitoring system**.
 * ESP32 transmits via LoRa
 * Receiver processes and stores data
 
+🔗 Transmitter repository:
+[https://github.com/ndamasc/Esp-Sender-Lora](https://github.com/ndamasc/Esp-Sender-Lora)]
+
 🔗 Receiver repository:
 [https://github.com/ndamasc/Esp-Receiver-Lora](https://github.com/ndamasc/Esp-Receiver-Lora)
 
@@ -101,18 +104,7 @@ This app integrates with a **water quality monitoring system**.
 * **DS18B20** → Temperature sensor
 * **ESP32 T-Beam** → Microcontroller
 * **LoRa module** → Long-range communication
-
----
-
-# 🛠 Requirements
-
-* ESP32 T-Beam (2 units)
-* PH4502C sensor
-* DS18B20 sensor
 * Resistors: 1KΩ, 2KΩ, 4.7KΩ
-* LoRa Library (Sandeep)
-* VS Code (or compatible IDE)
-
 ---
 
 # ⚙️ How It Works
